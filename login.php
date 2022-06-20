@@ -39,11 +39,8 @@
             background-color: deepskyblue;
             cursor: pointer;
         }
-
     </style>
-
 </head>
-
 <body>
 <a href="home.php">Voltar</a>
     <div>
